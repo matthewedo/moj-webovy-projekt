@@ -65,14 +65,8 @@ motívy čínskej vlády a nedostatky jej zalesňovacieho programu akékoľvek, 
 
 </p>
 </p>
-<<<<<<< HEAD
+
  *Tento článok je len časťou plnohodnotného textu, ktorý som našiel na internete a venuje sa odlesňovaniu 
  naozaj precízne. Pre splnenie zadanej úlohy som údaje, ktoré sú v texte zobrazené skontroloval
  na stránkach FAO. Vlastná intrepretácia článku by nebola v tomto prípade jednoduchá, pretože ide
  o naozaj kvalitný text, ktorý som chcel zachovať v čo najväčšom rozsahu.*
-=======
- Tento článok je len časťou plnohodnotného textu, ktorý som našiel na internete a venuje sa odlesňovaniu 
- naozaj precízne. Pre splnenie zadanej úlohy som údaje, ktoré sú v texte zobrazené skontroloval
- na stránkach FAO. Vlastná intrepretácia článku by nebola v tomto prípade jednoduchá, pretože ide
- o naozaj kvalitný text, ktorý som chcel zachovať v čo najväčšom rozsahu. 
->>>>>>> master
