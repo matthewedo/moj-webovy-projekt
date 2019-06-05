@@ -1,5 +1,5 @@
 body {
-     background: url(https://https://media-public.canva.com/MABNxmvt0rE/1/thumbnail_large.jpg)
+     background: url(https://media-public.canva.com/MABNxmvt0rE/1/thumbnail_large.jpg)
   }
 
 
@@ -25,28 +25,28 @@ body {
   font-family: fantasy;
   text-align: center;
   font-size: 200%;
-  color: grey;
+  color: black;
  }
 
  h2 {
   font-family: Verdana;
   font-size: x-large;
   text-align: center;
-  color:grey;
+  color:black;
  }
 
 
 
  a {
     text-decoration: none;
-    color: #696969;
+    color: black;
 }
 
 p {
   font-family: Verdana;
   font-size: medium;
   text-align: justify; 
-  color: #696969;
+  color: black;
 
 }
 
@@ -76,7 +76,7 @@ footer {
   float: right;
   width: 70%;
   border-left: solid;
-  border-color: grey;
+  border-color: rgb(2, 78, 2);
   padding-left: 25px;
   padding-top: 20px;
   padding-bottom: 1em;
@@ -100,7 +100,7 @@ nav ul {
 
 nav li {
   margin-bottom: 2em;
-  text-align: center;
+  text-align: left;
   font-size: 23px;
  font-family: sans-serif;
   font-weight: 700;
