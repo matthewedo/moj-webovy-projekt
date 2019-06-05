@@ -2,18 +2,18 @@ title: Nejedz palmový olej
 baseURL: https://xenodochial-kalam-4dd3db.netlify.com/
 languageCode: cs-cz
 publishDir: public
+googleAnalytics: UA-141173106-1
 
 menu:
   main:
-    - name: Homepage
+    - name: Domov
       url: /
       weight: 10
-    - name: Archive
+    - name: Články
       identifier: post
       url: /post/
       weight: 20
 
 params:
-  description: Description of my new site.
-  authors: Authors
-
+  description: ... alebo prečo pomôcť zvieratám
+  authors: Matúš Novák a Andrea Topičová
