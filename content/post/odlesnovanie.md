@@ -70,3 +70,5 @@ motívy čínskej vlády a nedostatky jej zalesňovacieho programu akékoľvek, 
  naozaj precízne. Pre splnenie zadanej úlohy som údaje, ktoré sú v texte zobrazené skontroloval
  na stránkach FAO. Vlastná intrepretácia článku by nebola v tomto prípade jednoduchá, pretože ide
  o naozaj kvalitný text, ktorý som chcel zachovať v čo najväčšom rozsahu.*
+</p>
+Zdroj: https://ippr.sk/s/215-odlesnovanie-deforestacia-pralesy-na-pokraji-priciny-a-dosledky
