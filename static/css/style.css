@@ -1,26 +1,81 @@
+body {
+     background: url(https://media-public.canva.com/MABNxmvt0rE/1/thumbnail_large.jpg)
+  }
+
+
+.description {
+  color: rgb(142, 81, 81);
+  font-family: Verdana;
+  font-weight: 150;
+  text-align: right;
+}
+
+
 .wrapper {
   margin: 30px auto;
   max-width: 800px;
   padding: 20px;
+  background: rgb(142, 81, 81);
+}
+
+h1{ 
+  font-family: fantasy;
+  text-align: center;
+  font-size: 200%;
+  color: rgb(20, 60, 20);
+ }
+
+ h2 {
+  font-family: Verdana;
+  font-size: x-large;
+  text-align: center;
+  color: rgb(20, 60, 20);
+ }
+
+
+ a {
+    text-decoration: none;
+    color: #696969;
+}
+
+p {
+  font-family: Verdana;
+  font-size: medium;
+  text-align: justify; 
+  color: #272626;
+
 }
 
 header {
-  padding: 30px 0 0;
+  padding: 500px 0 0;
   border-bottom: solid;
+  background: url(https://cdn.pixabay.com/photo/2019/02/09/20/45/orangutan-3985939_1280.jpg);
+  text-align: left;
+  color: #f5f5f5;
+  font-family: fantasy;
+  font-weight: 340px;
+  font-size: 22px;
+
+
 }
 
 footer {
-  border-top: solid;
   clear: both;
+  background: ##696969;
+  font-family: fantasy;
+  font-weight: 400px;
 }
 
 .page {
   float: right;
   width: 70%;
   border-left: solid;
-  padding-left: 1.5em;
-  padding-bottom: 2em;
+  border-color: grey;
+  padding-left: 25px;
+  padding-top: 20px;
+  padding-bottom: 1em;
   min-height: 400px;
+  background: #f5f5f5;
 }
 
 aside {
@@ -35,7 +90,12 @@ nav ul {
 }
 
 nav li {
-  margin-bottom: 1em;
+  margin-bottom: 2em;
+  text-align: center;
+  font-size: 23px;
+ font-family: sans-serif;
+  font-weight: 700;
+  color: #696969;
 }
 
 nav .active {
