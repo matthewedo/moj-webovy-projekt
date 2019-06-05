@@ -1,27 +1,21 @@
 ---
-title: Home
+title: Prečo by sme nemali jesť palmový olej?
 ---
 
-# Hello World! (It works!)
+**Chcel by som zvýšiť povedomie o palmovom oleji, ktorý nám síce pomáha v živote 
+a nehovorím ani, že je zlý, ale v dnešnej dobe ho používame až príliš a to zase nie 
+je potrebné.**
 
-This are the contents of the Hugo start website front page.
 
-## Something to read: Sonnet LXVI.
+Palmový olej je forma jedlého rastlinného oleja, ktorý sa ale nezískava zo semien ale 
+z oplodia palmy.  Zo semien sa vyrába tzv. palmojadrový olej, ktorý má ale iné zloženie.  
+Palmový olej sa vyrába z palmy olejnej (Elaeis guineensis) a patrí k najbežnejším rastlinným 
+olejom. Obsahuje veľa vitamínu E a prírodných karoténov. Hlavnou zložkou je kyselina palmitová. 
+Pri izbovej teplote je v polo-pevnej forme a má žltohnedú farbu. Palmový olej je typ jedlej 
+zeleniny, ktorá sa získava z ovocia palmy, ktorá narastá na africkom palmovom strome. Je 
+to najviac využiteľná zelenina na zemi. Palmové stromy pochádzajú originálne zo západnej 
+Afriky, ale prežijú v každom prostredí, kde je prales. Dnes je palmový olej vysádzaný po 
+celom svete v Afrike, Ázii, Severnej a Južnej Amerike. 85 % palmového oleja je globálne 
+produkovaných a exportovaných hlavne z Indonézie a Malajzie.
 
-> *Tired with all these, for restful death I cry,  
-> As to behold desert a beggar born,  
-> And needy nothing trimm'd in jollity,  
-> And purest faith unhappily forsworn,  
-> And gilded honour shamefully misplaced,  
-> And maiden virtue rudely strumpeted,  
-> And right perfection wrongfully disgraced,  
-> And strength by limping sway disabled  
-> And art made tongue-tied by authority,  
-> And folly, doctor-like, controlling skill,  
-> And simple truth miscalled simplicity,  
-> And captive good attending captain ill:  
-> Tired with all these, from these would I be gone,  
-> Save that, to die, I leave my love alone.*
-> 
-> William Shakespeare
-
+Zdroj: https://sk.wikipedia.org/wiki/Palmov%C3%BD_olej
