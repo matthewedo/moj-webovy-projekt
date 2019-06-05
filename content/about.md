@@ -43,7 +43,7 @@ MARTIN, C. (2015). On the Edge: The State and Fate of the World's Tropical Rainf
 TERBORGH, J. (1992). Diversity and the tropical rainforest. New York, NY: Scientific American Library. </br>
 
 
-<img src="https://cdn.pixabay.com/photo/2018/04/10/01/25/fall-3306105_1280.jpg" width="450" height="600" alt="my"border= 2px>
+<img src="https://cdn.pixabay.com/photo/2018/04/10/01/25/fall-3306105_1280.jpg" width="600" height="450" alt="my"border= 2px>
 
 
 [Hugo]: https://gohugo.io
