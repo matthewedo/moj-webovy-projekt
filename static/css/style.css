@@ -93,9 +93,10 @@ aside {
 }
 
 nav ul {
-  list-style-type: none;
-  padding: 0;
-
+  font-family: Verdana;
+  font-size: medium;
+  text-align: justify; 
+  color: rgb(64, 28, 148);
 }
 
 nav li {
